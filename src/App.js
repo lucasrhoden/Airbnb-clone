@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
+import { HashRouter as Router, Route} from "react-router-dom";
 
 import './App.css';
 import Header from "./Header/Header";
@@ -9,13 +9,11 @@ import Footer from "./Footer/Footer";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/">
       <div className="App">
       <Header />
-      <Switch>
         <Route path="/" component={Home} exact/>
         <Route path="/search" component={SearchPage} />
-      </Switch>
       <Footer />
     </div>
     </Router>
