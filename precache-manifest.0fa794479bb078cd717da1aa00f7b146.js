@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b456a0db2bb82b7b76262c5f94be6af",
+    "revision": "b984b1d213998e819343bb4ac7e8eff6",
     "url": "/lucasrhoden/Airbnb-clone/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lucasrhoden/Airbnb-clone/static/css/2.9229e6f1.chunk.css"
   },
   {
-    "revision": "d54f20f9fd30c2f880d4",
+    "revision": "86650ab22088ed8741f6",
     "url": "/lucasrhoden/Airbnb-clone/static/css/main.4259a5a5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lucasrhoden/Airbnb-clone/static/js/2.c4fbf758.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d54f20f9fd30c2f880d4",
-    "url": "/lucasrhoden/Airbnb-clone/static/js/main.bc1b314a.chunk.js"
+    "revision": "86650ab22088ed8741f6",
+    "url": "/lucasrhoden/Airbnb-clone/static/js/main.34234271.chunk.js"
   },
   {
     "revision": "18d19bd4443ca1ba6911",

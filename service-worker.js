@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lucasrhoden/Airbnb-clone/precache-manifest.148ac8783fbb904108daf01b49c9252f.js"
+  "/lucasrhoden/Airbnb-clone/precache-manifest.0fa794479bb078cd717da1aa00f7b146.js"
 );
 
 self.addEventListener('message', (event) => {
