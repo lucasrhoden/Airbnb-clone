@@ -1,0 +1,39 @@
+.searchPage {
+    width: 100%;
+    height: 200vh;
+    top: 85px;
+    position: relative;
+    justify-content: top;
+    display: flex;
+    flex-direction: column;
+}
+
+.searchPage_header {
+    box-sizing: border-box;
+    padding: 25px;
+    width: 100%;
+}
+
+.searchPage_header > p {
+    font-size: 14px;
+    line-height: 18px;
+    color: #222222;
+    padding-top: 25px;
+    padding-bottom: 8px;
+}
+
+.searchPage_header > h3 {
+    font-size: 26px;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+.searchPage_filter > .MuiButton-root {
+    margin-top: 15px;
+    margin-right: 8px;
+    box-sizing: border-box;
+    padding: 8px 15px;
+    text-transform: none;
+    border: 1px solid lightslategray;
+    border-radius: 20px;
+}

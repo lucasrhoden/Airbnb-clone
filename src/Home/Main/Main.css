@@ -1,0 +1,88 @@
+.main {
+    height: 700px;
+    position: relative;
+    width: 100%;
+    margin-top: 100px;
+    padding: 40;
+    color: white;
+    background-color: black;
+}
+
+.main_top {
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_top_header {
+    margin-left: 25px;
+    flex: 0.75;
+    padding: 45px;
+    box-sizing: border-box;
+}
+
+.main_top_header > h1 {
+    font-weight: 700;
+}
+
+.main_top_header > p {
+    margin-top: 5px;
+    width: 440px;
+}
+
+.main_top_header_right {
+    flex: 0.25;
+    box-sizing: border-box;
+    padding: 45px;
+    margin-right: 25px;
+    text-align: right;
+}
+
+.main_top_header_right > .MuiButton-root {
+    color: white;
+    height: fit-content;
+    font-weight: bold;
+    padding: 8px 10px;
+    text-transform: none;
+    border: 1px solid white;
+}
+
+.main_top_header_right > .MuiButton-root:hover {
+    background-color: rgb(113, 113, 113);
+}
+
+.main_bottom {
+    display: flex;
+}
+
+.main_bottom_left {
+    margin-left: 35px;
+}
+
+.main_bottom_left {
+    flex: 0.5;
+}
+
+.main_bottom_right {
+    margin-right: 35px;
+    flex: 0.5;
+    display: flex;
+    flex-direction: column;
+}
+
+.main_bottom_right_top {
+    flex: 0.5;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.main_bottom_right_bottom {
+    flex: 0.5;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+

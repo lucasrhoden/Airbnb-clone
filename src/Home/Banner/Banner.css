@@ -1,0 +1,49 @@
+.banner {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+    top: 85px;
+    background: url("https://s1.it.atcdn.net/wp-content/uploads/2017/11/IT_2017NOV10OnlineStory_AirBnB_1500x1001px.jpg") center center;
+}
+
+.banner > .MuiButton-root {
+    width: 100%;
+    font-family: inherit;
+    font-weight: bolder;
+    text-transform: none;
+    background-color: white;
+    color: #ff7779;
+    border-radius: 0%;
+}
+
+.banner > .MuiButton-root:hover {
+    background-color: #ff7779;
+    color: white;
+}
+
+.banner_info {
+    height: 90%;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 30vh 35px 25px 35px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.banner_info > h5 {
+    margin: 10px 0 25px 0;
+}
+
+.banner_info > .MuiButton-root {
+    background-color: #ff7779;
+    color: white;
+    font-family: inherit;
+    font-weight: bolder;
+    font-size: 15px;
+    text-transform: none;
+}
+
+.banner_info > .MuiButton-root:hover {
+    background-color: white;
+    color: #ff7779;
+}
