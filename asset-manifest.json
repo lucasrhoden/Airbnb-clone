@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/lucasrhoden/Airbnb-clone/static/css/main.4259a5a5.chunk.css",
-    "main.js": "/lucasrhoden/Airbnb-clone/static/js/main.d4cb9ed5.chunk.js",
-    "main.js.map": "/lucasrhoden/Airbnb-clone/static/js/main.d4cb9ed5.chunk.js.map",
+    "main.js": "/lucasrhoden/Airbnb-clone/static/js/main.1245eefe.chunk.js",
+    "main.js.map": "/lucasrhoden/Airbnb-clone/static/js/main.1245eefe.chunk.js.map",
     "runtime-main.js": "/lucasrhoden/Airbnb-clone/static/js/runtime-main.cec94637.js",
     "runtime-main.js.map": "/lucasrhoden/Airbnb-clone/static/js/runtime-main.cec94637.js.map",
     "static/css/2.9229e6f1.chunk.css": "/lucasrhoden/Airbnb-clone/static/css/2.9229e6f1.chunk.css",
-    "static/js/2.4e0966d6.chunk.js": "/lucasrhoden/Airbnb-clone/static/js/2.4e0966d6.chunk.js",
-    "static/js/2.4e0966d6.chunk.js.map": "/lucasrhoden/Airbnb-clone/static/js/2.4e0966d6.chunk.js.map",
+    "static/js/2.f22efb27.chunk.js": "/lucasrhoden/Airbnb-clone/static/js/2.f22efb27.chunk.js",
+    "static/js/2.f22efb27.chunk.js.map": "/lucasrhoden/Airbnb-clone/static/js/2.f22efb27.chunk.js.map",
     "index.html": "/lucasrhoden/Airbnb-clone/index.html",
-    "precache-manifest.97c6449fe9ea1053edd79a624bb70a76.js": "/lucasrhoden/Airbnb-clone/precache-manifest.97c6449fe9ea1053edd79a624bb70a76.js",
+    "precache-manifest.cd585101fea0e9b1952c6eed81b68518.js": "/lucasrhoden/Airbnb-clone/precache-manifest.cd585101fea0e9b1952c6eed81b68518.js",
     "service-worker.js": "/lucasrhoden/Airbnb-clone/service-worker.js",
     "static/css/2.9229e6f1.chunk.css.map": "/lucasrhoden/Airbnb-clone/static/css/2.9229e6f1.chunk.css.map",
     "static/css/main.4259a5a5.chunk.css.map": "/lucasrhoden/Airbnb-clone/static/css/main.4259a5a5.chunk.css.map",
-    "static/js/2.4e0966d6.chunk.js.LICENSE.txt": "/lucasrhoden/Airbnb-clone/static/js/2.4e0966d6.chunk.js.LICENSE.txt",
+    "static/js/2.f22efb27.chunk.js.LICENSE.txt": "/lucasrhoden/Airbnb-clone/static/js/2.f22efb27.chunk.js.LICENSE.txt",
     "static/media/airbnb-logo_v3.png": "/lucasrhoden/Airbnb-clone/static/media/airbnb-logo_v3.0a6b08d0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cec94637.js",
     "static/css/2.9229e6f1.chunk.css",
-    "static/js/2.4e0966d6.chunk.js",
+    "static/js/2.f22efb27.chunk.js",
     "static/css/main.4259a5a5.chunk.css",
-    "static/js/main.d4cb9ed5.chunk.js"
+    "static/js/main.1245eefe.chunk.js"
   ]
 }
