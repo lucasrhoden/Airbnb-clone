@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route, withRouter, Redirect} from "react-router-dom";
+import { Switch, Route, Redirect, withRouter } from "react-router-dom";
 
 import './App.css';
 import Header from "./Header/Header";
@@ -9,17 +9,15 @@ import Footer from "./Footer/Footer";
 
 function App() {
   return (
-    <Router>
-        <div className="App">
+      <div className="App">
         <Header />
         <Switch>
-          <Route path="/" component={Home} exact/>
           <Route path="/search" component={SearchPage} />
+          <Route path="/" component={Home} exact/>
           <Redirect to="/" />
         </Switch>
         <Footer />
     </div>
-    </Router>
   );
 }
 
