@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter } from "react-router-dom";
 import { createStore } from "redux";
 import { Provider } from "react-redux";
 import './index.css';
@@ -9,8 +10,12 @@ import reducer from "../src/store/reducer";
 
 const store = createStore(reducer);
 
-ReactDOM.render(
+const app = (
     <Provider store={store}>
-        <App />
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
+            <App />
+        </BrowserRouter>
     </Provider>
-    ,document.getElementById('root'));
+);
+
+ReactDOM.render( app, document.getElementById('root'));
